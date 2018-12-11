@@ -1,0 +1,14 @@
+The sum of the diagonals of matrix 0 is 724.
+The sum of the diagonals of matrix 1 is 493.
+The sum of the diagonals of matrix 2 is 1222.
+The sum of the diagonals of matrix 3 is 1391.
+The sum of the diagonals of matrix 4 is 1837.
+The sum of the diagonals of matrix 5 is 2539.
+The sum of the diagonals of matrix 6 is 1522.
+The sum of the diagonals of matrix 7 is 1303.
+The sum of the diagonals of matrix 8 is 831.
+The sum of the diagonals of matrix 9 is 950.
+The sum of the diagonals of matrix 10 is 2005.
+The sum of the diagonals of matrix 11 is 2110.
+The sum of the diagonals of matrix 12 is 2314.
+The sum of the diagonals of matrix 13 is 3051.

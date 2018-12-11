@@ -1,0 +1,7 @@
+H:\ICS4U 2017\enterthematrix\enterthemethrix\enterthemethrix\bin\Debug\enterthemethrix.exe.config
+H:\ICS4U 2017\enterthematrix\enterthemethrix\enterthemethrix\bin\Debug\input.txt
+H:\ICS4U 2017\enterthematrix\enterthemethrix\enterthemethrix\bin\Debug\enterthemethrix.exe
+H:\ICS4U 2017\enterthematrix\enterthemethrix\enterthemethrix\bin\Debug\enterthemethrix.pdb
+H:\ICS4U 2017\enterthematrix\enterthemethrix\enterthemethrix\obj\Debug\enterthemethrix.csprojResolveAssemblyReference.cache
+H:\ICS4U 2017\enterthematrix\enterthemethrix\enterthemethrix\obj\Debug\enterthemethrix.exe
+H:\ICS4U 2017\enterthematrix\enterthemethrix\enterthemethrix\obj\Debug\enterthemethrix.pdb
